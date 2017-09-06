@@ -1,0 +1,9 @@
+{
+    "name": "anomaly/free_shipping_discount-extension",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Anomaly\\FreeShippingDiscountExtension\\": "src/"
+        }
+    }
+}
